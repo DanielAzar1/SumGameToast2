@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
         nextbutton = findViewById(R.id.nextbutton);
         num1q1.setText(""+rndNum);
-        num2q1.setText(" "+rndNum2);
+        num2q1.setText(""+rndNum2);
     }
 
     public void click1(View view) {
